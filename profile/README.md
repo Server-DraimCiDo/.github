@@ -12,7 +12,7 @@
 - 🧙 И помните, не засирайте тут ничего.
 
 
-# Активные сервера
+# Активные репозитории
 ### [Режим Survival](https://github.com/TODO-Eclipse/Survival) - Разработчик Даня (DraimGooSe)
 ### [Режим HUB](https://github.com/TODO-Eclipse/HUB) - Разработчик Даня (DraimGooSe)
 ### [Режим SkyBlock](https://github.com/TODO-Eclipse/SkyBlock) - Разработчик Давид (Sfirut)
