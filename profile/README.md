@@ -16,7 +16,7 @@
 ### [Режим Survival](https://github.com/TODO-Eclipse/Survival) - Разработчик Даня (DraimGooSe)
 ### [Режим HUB](https://github.com/TODO-Eclipse/HUB) - Разработчик Даня (DraimGooSe)
 ### [Режим SkyBlock](https://github.com/TODO-Eclipse/SkyBlock) - Разработчик Давид (Sfirut)
-### [Веб-сайт](https://github.com/TODO-Eclipse/Website) - Разработчик Владимир (Armagidosha)
+### [Веб-сайт](https://github.com/TODO-Eclipse/Website) - Разработчик Владимир и Игорь (Armagidosha & strikex1931)
 
 # Важная информация
 - [Как отправлять репорты?](https://github.com/TODO-Eclipse/Survival/wiki/%D0%9A%D0%B0%D0%BA-%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D1%8F%D1%82%D1%8C-%D0%B1%D0%B0%D0%B3%E2%80%90%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B%3F)
