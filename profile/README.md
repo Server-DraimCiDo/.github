@@ -16,4 +16,4 @@
 ### [Режим Survival](https://github.com/Server-DraimCiDo/Survival) - Разработчик Даня (DraimGooSe)
 ### [Режим HUB](https://github.com/Server-DraimCiDo/HUB) - Разработчик Даня (DraimGooSe)
 ### [Режим SkyBlock](https://github.com/Server-DraimCiDo/SkyBlock) - Разработчик Давид (Sfirut)
-### [Веб-сайт](https://github.com/Server-DraimCiDo/Website) - Разработчики Владимир и Игорь (Armagidosha & strikex1931)
+### [Веб-сайт](https://github.com/Server-DraimCiDo/Website) - Разработчики Владимир (Armagidosha)
