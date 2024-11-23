@@ -14,7 +14,7 @@
 
 # Активные репозитории
 ### [Режим Survival](https://github.com/Server-DraimCiDo/DraimCiDo-Survival)
-### [Режим SkyBlock](https://github.com/Server-DraimCiDo/SkyBlock)
+### [Режим SkyBlock](https://github.com/Server-DraimCiDo/DraimCiDo-SkyBlock)
+### [Веб-сайт](https://github.com/Server-DraimCiDo/DraimCiDo-web)
 ### [Lobby](https://github.com/Server-DraimCiDo/Lobby)
 ### [Proxy](https://github.com/Server-DraimCiDo/Proxy)
-### [Веб-сайт](https://github.com/Server-DraimCiDo/DraimCiDo-web)
