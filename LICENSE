@@ -1,21 +1,34 @@
-MIT License
+# Лицензия для использования репозиториев DraimCiDo
 
-Copyright (c) 2024 TODO-Eclipse
+Этот проект и все его репозитории (включая, но не ограничиваясь кодом, графикой, документацией и другими материалами) предоставляются под **лицензией с ограниченным доступом**.  
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Условия использования
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. **Неавторизованное использование запрещено**  
+   Вы не можете использовать, модифицировать, распространять, или распространять производные работы, созданные на основе этого репозитория, без явного письменного согласия владельца (автора).
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. **Использование для коммерческих целей**  
+   Запрещено использовать этот проект для любых коммерческих целей, включая, но не ограничиваясь, продажей, лицензированием или использованием в платных продуктах и услугах, без явного согласия владельца.
+
+3. **Дистрибуция и публичное использование**  
+   Вы не можете распространять или размещать этот проект на любых публичных ресурсах без получения явного согласия владельца.
+
+4. **Изменения в проекте**  
+   Модификация или создание производных работ на основе этого проекта без согласия владельца запрещены. Если вы хотите предложить изменения или улучшения, пожалуйста, свяжитесь с владельцем проекта для получения разрешения.
+
+5. **Запрещённое использование**  
+   Вы не можете использовать этот проект для создания программного обеспечения, которое нарушает законы, нарушает права других людей или нарушает общественные нормы и этические стандарты.
+
+## Как получить разрешение
+
+Если вы хотите использовать, изменить или распространить этот проект в любых целях, пожалуйста, свяжитесь с владельцем репозитория (автором) для получения разрешения. Разрешение будет предоставлено только в письменной форме.
+
+## Отказ от ответственности
+
+Проект предоставляется "как есть", без каких-либо гарантий. Автор не несет ответственности за любые убытки или ущерб, возникающие в результате использования данного проекта.
+
+---
+
+**Автор:** @DraimCiDo 
+**Контакт для получения разрешения:** draimcido@gmail.com
+
