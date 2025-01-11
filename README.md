@@ -1,2 +1,2 @@
 # .github
-Разработка проекта Eclipse
+Разработка проекта DraimCiDo
